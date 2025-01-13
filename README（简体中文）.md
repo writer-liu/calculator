@@ -1,6 +1,6 @@
 # 计算器
 
-[**english**](/calculator-main//README.md)
+[**english**](/calculator/README.md)
 
 Windows 计算器应用程序是一个用 C++ 和 C# 编写的现代 Windows 应用程序，预装在 Windows 系统中。该应用程序提供标准、科学和程序员计算器功能，以及各种单位和货币之间的转换功能。
 
