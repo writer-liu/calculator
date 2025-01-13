@@ -2,7 +2,7 @@
 
 ## 安全
 
-[**english**](/calculator-main//SECURITY.md)
+[**english**](/SECURITY.md)
 
 微软非常重视我们软件产品和服务的安全性，这包括通过我们的 GitHub 组织管理的所有源代码库，这些组织包括 [Microsoft](https://github.com/Microsoft)、[Azure](https://github.com/Azure)、[DotNet](https://github.com/dotnet)、[AspNet](https://github.com/aspnet)、[Xamarin](https://github.com/xamarin) 和 [更多](https://opensource.microsoft.com/)。
 
