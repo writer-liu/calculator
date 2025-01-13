@@ -1,6 +1,6 @@
 # Calculator
 
-[**简体中文**](/calculator-main//README（简体中文）.md)
+[**简体中文**](wrinter-liu/add-mathematical-calculator2412-1/calculator/README（简体中文）.md)
 
 The Windows Calculator app is a modern Windows app written in C++ and C# that ships pre-installed with Windows.
 The app provides standard, scientific, and programmer calculator functionality, as well as a set of converters between various units of measurement and currencies.
